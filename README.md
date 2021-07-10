@@ -21,3 +21,20 @@ Starring:
 - HTML
 - SASS
 - Javascript
+
+# How to run this project? :point_down:
+
+- You need to have Node.js installed
+
+- Clone or download the repository in your computer.
+
+To install local dependencies, type:
+
+#### `npm install`
+
+#### `npm start`
+
+This runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
