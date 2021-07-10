@@ -3,6 +3,10 @@
 
 **Objetivo:** Desarrollar una página web con un juego de "Adivinar el número".
 
+![GuessTheNumber](https://raw.githubusercontent.com/NurAhissami/guess-the-number/main/guess.png)
+
+
+
 ## Descripción del proyecto:
 
 El juego consiste en que el programa genera un número al azar entre 1 y 100, y la jugadora tiene que adivinarlo. El juego da pistas sobre si el número que prueba es demasiado alto o bajo, y va contabilizando el número de intentos. Hasta que al final la jugadora acierta el número.
